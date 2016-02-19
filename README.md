@@ -1,2 +1,3 @@
-# opencv-visual-studio-prop-sheet
-Visual Studio property sheet for the OpenCV project
+# OpenCV Visual Studio property sheet
+
+Useful Debug/Release property sheets adding libraries for OpenCV project.
